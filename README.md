@@ -1,5 +1,3 @@
-[![Header](https://github.com/NikitaS-95/NikitaS-95/blob/main/assets/Nikita%20serov.png)](https://www.linkedin.com/in/serov-nikita/)
-
 ## QA Engineer
 
 ### Tools
